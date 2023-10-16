@@ -150,7 +150,7 @@ TextureImporter:
       213: 21300096
     second: ROLLIC_LOGO_ANIMATION_00048
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -167,10 +167,12 @@ TextureImporter:
     externalNormalMap: 0
     heightScale: 0.25
     normalMapFilter: 0
+    flipGreenChannel: 0
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -209,6 +211,8 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -220,6 +224,59 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
@@ -1264,9 +1321,58 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-  spritePackingTag: 
+    nameFileIdTable:
+      ROLLIC_LOGO_ANIMATION_00000: 21300000
+      ROLLIC_LOGO_ANIMATION_00001: 21300002
+      ROLLIC_LOGO_ANIMATION_00002: 21300004
+      ROLLIC_LOGO_ANIMATION_00003: 21300006
+      ROLLIC_LOGO_ANIMATION_00004: 21300008
+      ROLLIC_LOGO_ANIMATION_00005: 21300010
+      ROLLIC_LOGO_ANIMATION_00006: 21300012
+      ROLLIC_LOGO_ANIMATION_00007: 21300014
+      ROLLIC_LOGO_ANIMATION_00008: 21300016
+      ROLLIC_LOGO_ANIMATION_00009: 21300018
+      ROLLIC_LOGO_ANIMATION_00010: 21300020
+      ROLLIC_LOGO_ANIMATION_00011: 21300022
+      ROLLIC_LOGO_ANIMATION_00012: 21300024
+      ROLLIC_LOGO_ANIMATION_00013: 21300026
+      ROLLIC_LOGO_ANIMATION_00014: 21300028
+      ROLLIC_LOGO_ANIMATION_00015: 21300030
+      ROLLIC_LOGO_ANIMATION_00016: 21300032
+      ROLLIC_LOGO_ANIMATION_00017: 21300034
+      ROLLIC_LOGO_ANIMATION_00018: 21300036
+      ROLLIC_LOGO_ANIMATION_00019: 21300038
+      ROLLIC_LOGO_ANIMATION_00020: 21300040
+      ROLLIC_LOGO_ANIMATION_00021: 21300042
+      ROLLIC_LOGO_ANIMATION_00022: 21300044
+      ROLLIC_LOGO_ANIMATION_00023: 21300046
+      ROLLIC_LOGO_ANIMATION_00024: 21300048
+      ROLLIC_LOGO_ANIMATION_00025: 21300050
+      ROLLIC_LOGO_ANIMATION_00026: 21300052
+      ROLLIC_LOGO_ANIMATION_00027: 21300054
+      ROLLIC_LOGO_ANIMATION_00028: 21300056
+      ROLLIC_LOGO_ANIMATION_00029: 21300058
+      ROLLIC_LOGO_ANIMATION_00030: 21300060
+      ROLLIC_LOGO_ANIMATION_00031: 21300062
+      ROLLIC_LOGO_ANIMATION_00032: 21300064
+      ROLLIC_LOGO_ANIMATION_00033: 21300066
+      ROLLIC_LOGO_ANIMATION_00034: 21300068
+      ROLLIC_LOGO_ANIMATION_00035: 21300070
+      ROLLIC_LOGO_ANIMATION_00036: 21300072
+      ROLLIC_LOGO_ANIMATION_00037: 21300074
+      ROLLIC_LOGO_ANIMATION_00038: 21300076
+      ROLLIC_LOGO_ANIMATION_00039: 21300078
+      ROLLIC_LOGO_ANIMATION_00040: 21300080
+      ROLLIC_LOGO_ANIMATION_00041: 21300082
+      ROLLIC_LOGO_ANIMATION_00042: 21300084
+      ROLLIC_LOGO_ANIMATION_00043: 21300086
+      ROLLIC_LOGO_ANIMATION_00044: 21300088
+      ROLLIC_LOGO_ANIMATION_00045: 21300090
+      ROLLIC_LOGO_ANIMATION_00046: 21300092
+      ROLLIC_LOGO_ANIMATION_00047: 21300094
+      ROLLIC_LOGO_ANIMATION_00048: 21300096
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
-  pSDShowRemoveMatteOption: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

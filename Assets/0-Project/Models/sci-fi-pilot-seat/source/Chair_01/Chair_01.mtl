@@ -1,0 +1,51 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.193236683)
+
+newmtl Steel - Satin
+kd 0.627451 0.627451 0.627451
+illum 1
+
+newmtl Plastic - Glossy (Black)
+kd 0.0980392 0.0980392 0.0980392
+illum 1
+
+newmtl Plastic - Glossy (Red)
+kd 0.768627 0.207843 0.152941
+illum 1
+
+newmtl Emmissive Red
+kd 1 0 0
+illum 1
+
+newmtl Emmissive Blue
+kd 0 0.490196 1
+illum 1
+
+newmtl Emmissive Green
+kd 0 1 0
+illum 1
+
+newmtl Plastic - Glossy (Blue)
+kd 0.188235 0.231373 0.588235
+illum 1
+
+newmtl Plastic - Glossy (Green)
+kd 0.266667 0.588235 0.282353
+illum 1
+
+newmtl Aluminum - Anodized Glossy (Grey)
+kd 0.537255 0.537255 0.537255
+illum 1
+
+newmtl Aluminum - Anodized Glossy (Red)
+kd 0.854902 0.34902 0.34902
+illum 1
+
+newmtl Aluminum - Polished
+kd 0.960784 0.960784 0.964706
+illum 1
+
+newmtl Plastic (Tan)
+kd 0.709804 0.580392 0.372549
+illum 1
+
